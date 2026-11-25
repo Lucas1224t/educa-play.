@@ -1,0 +1,5 @@
+node_modules/
+.env
+.netlify/
+# Conta de teste: NUNCA vai para o repositorio (contem a senha de dev)
+backend/src/config/testAccount.js
